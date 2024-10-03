@@ -28,5 +28,7 @@ int main() {
     } 
     
     return 0;
-} ```
-test
+}
+```
+## Скриншоты
+![alt lab1.png]
