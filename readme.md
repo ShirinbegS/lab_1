@@ -32,3 +32,9 @@ int main() {
 ```
 ## Скриншоты
 ![alt text](lab1.1-1.png)
+### Блок схема
+![alt text](diagram.png)
+### Ссылки на источники 
+[Блок схема](https://programforyou.ru/block-diagram-redactor)  
+[Markdown](https://doka.guide/tools/markdown/)  
+[Ещё Markdown](https://skillbox.ru/media/code/yazyk-razmetki-markdown-shpargalka-po-sintaksisu-s-primerami/#stk-18)
