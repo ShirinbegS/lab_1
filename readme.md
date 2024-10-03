@@ -31,4 +31,4 @@ int main() {
 }
 ```
 ## Скриншоты
-![alt lab1.1.png]
+![alt text](lab1.1-1.png)
